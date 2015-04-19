@@ -1,2 +1,3 @@
-# BrickHack-Muse-Hack
+# BrickHack-Myo-Thing
 
+It's a myo thing
